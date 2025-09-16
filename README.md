@@ -25,16 +25,8 @@
 ## 🚀 Projects  
 - 🧠 **NeuroTicker** – AI-driven fintech platform for smarter trading insights.  
 - 🌍 **RITE (Revitalizing Indian Traditions & Experiences)** – Travel planner with GNSS map-matching & AI chatbot.  
-- 💧 **JalSanket** – App for water supply management, billing & asset tracking.  
-- 🌊 **ARGO Ocean Data Viz** – AI-powered interface for exploring complex ocean datasets.  
-- 📚 **Krishna Challenge MCQ Platform** – Lightweight app for spiritual learning gamified.  
-
----
-
-## 🏆 Achievements  
-- Ranked **Top 7/100+ teams** in **Smart India Hackathon 2024 Finals**.  
-- Built solutions for **National Mission projects** like Jal Jeevan Mission & CGWB groundwater monitoring.  
-- Consistently pushing impactful prototypes into hackathons & real-world pilots.  
+- 🌊 **ARGO Ocean Data Viz** – AI-powered interface for exploring complex ocean datasets.
+  
 
 ---
 
