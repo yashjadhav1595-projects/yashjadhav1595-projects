@@ -33,8 +33,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashjadhav1595-projects&layout=compact&theme=tokyonight)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yashjadhav1595-projects&theme=tokyonight&hide_border=true)  
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=yashjadhav1595-projects&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashjadhav1595-projects&theme=tokyo-night&hide_border=true)  
 
 ---
