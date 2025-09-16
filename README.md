@@ -2,7 +2,7 @@
 
 💻 **Software Developer | Investor | Tech Explorer**  
 🚀 Passionate about building user-centric, real-world solutions in **governance, transport, and fintech**.  
-📚 Currently pursuing a **B.Tech in Information Technology** at Pune University.  
+📚 Currently pursuing a **B.Tech in Information Technology** at Savitribai Phule Pune University.  
 ⚡ “Beginner at everything, hungry to learn more every day.”  
 
 ---
@@ -25,14 +25,23 @@
 ## 🚀 Projects  
 - 🧠 **NeuroTicker** – AI-driven fintech platform for smarter trading insights.  
 - 🌍 **RITE (Revitalizing Indian Traditions & Experiences)** – Travel planner with GNSS map-matching & AI chatbot.  
-- 🌊 **ARGO Ocean Data Viz** – AI-powered interface for exploring complex ocean datasets.
   
+
+---
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashjadhav1595&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashjadhav1595&layout=compact&theme=tokyonight)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=yashjadhav1595&theme=tokyonight&hide_border=true)  
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashjadhav1595&theme=tokyo-night&hide_border=true)  
 
 ---
 
 ## 📫 Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/YashBhai)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yashjadhav1595-connect)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/yashjadhav1595-projects)  
 [![Email](https://img.shields.io/badge/Email-Say%20Hi-red?logo=gmail)](mailto:yashjadhav.career@gmail.com)  
 
 ---
