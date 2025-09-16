@@ -2,7 +2,7 @@
 
 💻 **Software Developer | Investor | Tech Explorer**  
 🚀 Passionate about building user-centric, real-world solutions in **governance, transport, and fintech**.  
-📚 Currently pursuing a **B.Tech in Information Technology** at Savitribai Phule Pune University.  
+📚 Currently pursuing a **B.E. in Information Technology** at Savitribai Phule Pune University.  
 ⚡ “Beginner at everything, hungry to learn more every day.”  
 
 ---
@@ -24,7 +24,7 @@
 
 ## 🚀 Projects  
 - 🧠 **NeuroTicker** – AI-driven fintech platform for smarter trading insights.  
-- 🌍 **RITE (Revitalizing Indian Traditions & Experiences)** – Travel planner with GNSS map-matching & AI chatbot.  
+- 🌍 **RITE** – GNSS map-matching & AI chatbot.  
   
 
 ---
@@ -44,6 +44,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/yashjadhav1595-projects)  
 [![Email](https://img.shields.io/badge/Email-Say%20Hi-red?logo=gmail)](mailto:yashjadhav.career@gmail.com)  
 
----
-
-⚡ *Fun fact: I can debug code faster when I forget to drink water for 6 hours… but please don’t try this at home.*  
