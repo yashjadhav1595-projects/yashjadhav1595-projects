@@ -20,6 +20,9 @@
 - **Frameworks & Tools:** React.js, Node.js, Express.js, MongoDB, PostgreSQL  
 - **Other Skills:** Git, REST APIs, Postman, TailwindCSS  
 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,html,css,react,git,github,vscode&theme=dark)](https://skillicons.dev)
+
+
 ---
 
 ## 🚀 Projects  
@@ -32,14 +35,11 @@
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashjadhav1595-projects&show_icons=true&theme=tokyonight)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashjadhav1595-projects&layout=compact&theme=tokyonight)  
+[![Trophies](https://github-profile-trophy.vercel.app/?username=yashjadhav1595-projects&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashjadhav1595-projects&theme=tokyonight)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yashjadhav1595-projects&theme=dark)](https://git.io/streak-stats)
 -->
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,html,css,react,git,github,vscode&theme=dark)](https://skillicons.dev)
-
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashjadhav1595-projects&theme=tokyonight)
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=yashjadhav1595-projects&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=yashjadhav1595-projects&theme=tokyonight)](https://git.io/streak-stats)
 
