@@ -25,10 +25,14 @@
 
 ---
 
-## 🚀 Projects  
-- 🧠 **NeuroTicker** – AI-driven fintech platform for smarter trading insights.  
-- 🌍 **RITE** – GNSS map-matching & AI chatbot.  
-  
+
+### 🚀 Top Deployments
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🧠 NeuroTicker** | AI-driven fintech platform for trading insights. | `Python` `AI/ML` `Fintech` |
+| **🌍 RITE** | GNSS map-matching & AI chatbot system. | `React` `Node` `GNSS` |
+
+---
 
 ---
 ## 📊 GitHub Stats  
