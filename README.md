@@ -35,8 +35,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yashjadhav1595-projects&theme=dark)](https://git.io/streak-stats)
 -->
-
-![Metrics](https://metrics.lecoq.io/yashjadhav1595-projects?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&languages=1&languages.limit=8)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,html,css,react,git,github,vscode&theme=dark)](https://skillicons.dev)
 
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashjadhav1595-projects&theme=tokyonight)
 
@@ -47,6 +46,8 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashjadhav1595-projects&theme=tokyo-night&hide_border=true)  
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashjadhav1595-projects&theme=tokyonight)
+
+![Metrics](https://metrics.lecoq.io/yashjadhav1595-projects?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&languages=1&languages.limit=8)
 
 ---
 
