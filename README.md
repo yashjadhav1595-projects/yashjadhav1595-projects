@@ -37,13 +37,16 @@
 -->
 
 ![Metrics](https://metrics.lecoq.io/yashjadhav1595-projects?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&languages=1&languages.limit=8)
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashjadhav1595-projects&theme=tokyonight)
 
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashjadhav1595-projects&theme=tokyonight)
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=yashjadhav1595-projects&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=yashjadhav1595-projects&theme=tokyonight)](https://git.io/streak-stats)
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashjadhav1595-projects&theme=tokyo-night&hide_border=true)  
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashjadhav1595-projects&theme=tokyonight)
 
 ---
 
