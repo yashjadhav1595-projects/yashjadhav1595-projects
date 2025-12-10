@@ -33,8 +33,6 @@
 | **🌍 RITE** | GNSS map-matching & AI chatbot system. | `React` `Node` `GNSS` |
 
 ---
-
----
 ## 📊 GitHub Stats  
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashjadhav1595-projects&show_icons=true&theme=tokyonight)  
 
