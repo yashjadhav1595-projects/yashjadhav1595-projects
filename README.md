@@ -39,11 +39,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashjadhav1595-projects&layout=compact&theme=tokyonight)  
 [![Trophies](https://github-profile-trophy.vercel.app/?username=yashjadhav1595-projects&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashjadhav1595-projects&theme=tokyonight)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=yashjadhav1595-projects&theme=tokyonight)](https://git.io/streak-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yashjadhav1595-projects&theme=dark)](https://git.io/streak-stats)
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yashjadhav1595-projects&theme=tokyonight)](https://git.io/streak-stats)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashjadhav1595-projects&theme=tokyo-night&hide_border=true)  
 
