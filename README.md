@@ -43,11 +43,11 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashjadhav1595-projects&theme=tokyo-night&hide_border=true)  
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yashjadhav1595-projects&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yashjadhav1595-projects&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashjadhav1595-projects&theme=tokyonight)
 
-![Metrics](https://metrics.lecoq.io/yashjadhav1595-projects?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&languages=1&languages.limit=8)
+![Metrics](https://metrics.lecoq.io/yashjadhav1595-projects?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&languages=1&languages.limit=8&config.timezone=Asia/Calcutta)
 
 ---
 
