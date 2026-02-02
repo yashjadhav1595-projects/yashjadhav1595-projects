@@ -13,65 +13,11 @@
 - 📊 Exploring **fintech innovations, GNSS algorithms**, and **RWAs**.  
 
 ---
-
-## 🛠️ Tech Stack & Skills
-
-### 🔐 Authentication & DevOps
-- OAuth (Clerk)
-- WebSockets
-- CI/CD Pipelines
-- Agile Tools
-- Vercel
-- GitHub / Git
-
-### 🧠 Programming Languages
-- Python
-- C++
-- HTML, CSS, JavaScript (ES6+)
-- TypeScript
-
-### 📚 Core Computer Science
-- Data Structures & Algorithms (DSA)
-- Object-Oriented Programming (OOP)
-- Database Management Systems (DBMS)
-- Computer Networks (CN)
-- Operating Systems (OS)
-
-### 🌐 Web & Backend Frameworks
-- Node.js
-- Express.js
-- React.js
-- REST APIs
-- FastAPI
-
-### 🗄️ Databases & Backend Services
-- MongoDB
-- MySQL
-- PostgreSQL
-- Supabase
-
-### 🧪 API & Testing Tools
-- Postman API
-
-### 🤖 Generative AI & ML
-#### Frameworks & Concepts
-- Hugging Face
-- Large Language Models (LLMs)
-- LangFlow
-- Retrieval-Augmented Generation (RAG)
-- MCP (Model Context Protocol)
-- Vector Databases
-
-#### Libraries & Tools
-- NumPy
-- Seaborn
-- Streamlit
-
-### ✍️ Developer Tools
-- Code Editors (VS Code, etc.)
-- Prompt Engineering
- 
-
+## 🛠️ Tech Stack  
+- **Languages:** C++, JavaScript, Python  
+- **Frameworks & Tools:** React.js, Node.js, Express.js, MongoDB, MySQL, PostgreSQL  
+- **Other Skills:** Git, REST APIs, Postman, TailwindCSS
+- 
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,tensorflow,js,ts,react,nextjs,vite,html,css,tailwind,mongodb,git,github&theme=dark)](https://skillicons.dev)
 
 
@@ -90,7 +36,10 @@
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashjadhav1595-projects&show_icons=true&theme=tokyonight)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashjadhav1595-projects&layout=compact&theme=tokyonight)  
-[![Trophies](https://github-profile-trophy.vercel.app/?username=yashjadhav1595-projects&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=yashjadhav1595-projects&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-tr## 🛠️ Tech Stack  
+- **Languages:** C++, JavaScript, Python  
+- **Frameworks & Tools:** React.js, Node.js, Express.js, MongoDB, MySQL, PostgreSQL  
+- **Other Skills:** Git, REST APIs, Postman, TailwindCSS ophy)
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashjadhav1595-projects&theme=tokyonight)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yashjadhav1595-projects&theme=dark)](https://git.io/streak-stats)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashjadhav1595-projects&theme=tokyo-night&hide_border=true)  
