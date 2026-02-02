@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Yash Jadhav  
 
-💻 **Software Developer | Investor | Tech Explorer**  
-🚀 Passionate about building user-centric, real-world solutions in **governance, transport, and fintech**.  
-📚 Currently pursuing a **B.E. in Information Technology** at Savitribai Phule Pune University.  
+💻 **Software Developer | Investor | Blockchain & GenAI Enthusiast**  
+🚀 Passionate about building user-centric, real-world solutions in **social-media, navigation, and fintech**.  
+📚 Currently pursuing a **B.E. in Information Technology** at **DYPCOE** (SPPU).  
 ⚡ “Beginner at everything, hungry to learn more every day.”  
 
 ---
 
 ## ✨ About Me  
-- 🌱 Growing my skills in the **MERN stack** (React.js for 9 months now).  
+- 🌱 Growing my skills in the **MERN stack** (React.js for 1 year now).  
 - 🔭 Available full-time for 6 months (looking for exciting projects & collabs).  
-- 🎯 Interested in blending **AI + real-world problem solving**.  
-- 📊 Exploring **fintech innovations, GNSS algorithms, and water-tech applications**.  
+- 🎯 Interested in blending **GenAI + real-world problem solving**.  
+- 📊 Exploring **fintech innovations, GNSS algorithms, and real-world applications**.  
 
 ---
 
@@ -29,7 +29,8 @@
 ### 🚀 Top Deployments
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🧠 NeuroTicker** | AI-driven fintech platform for trading insights. | `Python` `AI/ML` `Fintech` |
+| **🧠 NeuroTicker** | AI-driven fintech platform for trading insights | `Typescript` `GenAI` `LLMs` `RESTAPI`|
+| **🌍FractionRealmRise** | Real estate tokenization and geospatial trading platform | `Typescript` `Aptos` `Mapbox` |
 | **🌍 RITE** | GNSS map-matching & AI chatbot system. | `React` `Node` `GNSS` |
 
 ---
