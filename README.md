@@ -3,15 +3,14 @@
 💻 **Software Developer | Investor | Blockchain & GenAI Enthusiast**  
 🚀 Passionate about building user-centric, real-world solutions in **social-media, navigation, and fintech**.  
 📚 Currently pursuing a **B.E. in Information Technology** at **DYPCOE** (SPPU).  
-⚡ “Beginner at everything, hungry to learn more every day.”  
 
 ---
 
 ## ✨ About Me  
 - 🌱 Growing my skills in the **MERN stack** (React.js for 1 year now).  
-- 🔭 Available full-time for 6 months (looking for exciting projects & collabs).  
+- 🔭 Available full-time for internships & part time for freelance work (looking for  real-world projects & collabs).  
 - 🎯 Interested in blending **GenAI + real-world problem solving**.  
-- 📊 Exploring **fintech innovations, GNSS algorithms, and real-world applications**.  
+- 📊 Exploring **fintech innovations, GNSS algorithms, and RWAs**.  
 
 ---
 
@@ -29,9 +28,9 @@
 ### 🚀 Top Deployments
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🧠 NeuroTicker** | AI-driven fintech platform for trading insights | `Typescript` `GenAI` `LLMs` `RESTAPI`|
-| **🌍FractionRealmRise** | Real estate tokenization and geospatial trading platform | `Typescript` `Aptos` `Mapbox` |
-| **🌍 RITE** | GNSS map-matching & AI chatbot system. | `React` `Node` `GNSS` |
+| **NeuroTicker** | AI-driven fintech platform for trading insights | `Typescript` `GenAI` `LLMs` `RESTAPI`|
+| **FractionRealmRise** | Real estate tokenization and geospatial trading platform | `Typescript` `Aptos` `Mapbox` |
+| **RITE** | GNSS map-matching & AI chatbot system. | `React` `Node` `GNSS` |
 
 ---
 ## 📊 GitHub Stats  
