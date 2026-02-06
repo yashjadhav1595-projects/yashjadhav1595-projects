@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Yash Jadhav  
 
-💻 **Software Developer | Investor | Blockchain & GenAI Enthusiast**  
-🚀 Passionate about building user-centric, real-world solutions in **social-media, navigation, and fintech**.  
-📚 Currently pursuing a **B.E. in Information Technology** at **DYPCOE** (SPPU).  
+- 💻 **Software Developer | Investor | Blockchain & GenAI Enthusiast**  
+- 🚀 Passionate about building user-centric, real-world solutions in **social-media, navigation, and fintech**.  
+- 📚 Currently pursuing a **B.E. in Information Technology** at **DYPCOE** (SPPU).  
 
 ---
 
