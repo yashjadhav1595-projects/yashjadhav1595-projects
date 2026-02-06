@@ -2,7 +2,7 @@
 
 - 💻 **Software Developer | Investor | Blockchain & GenAI Enthusiast**  
 - 🚀 Passionate about building user-centric, real-world solutions in **social-media, navigation, and fintech**.  
-- 📚 Currently pursuing a **B.E. in Information Technology** at **DYPCOE** (SPPU).  
+- 📚 Currently pursuing a **B.E. in Information Technology** at **DYPCOE** (SPPU), 2027 batch .  
 
 ---
 
