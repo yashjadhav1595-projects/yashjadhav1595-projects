@@ -25,11 +25,11 @@
 
 
 ### 🚀 Top Deployments
-- | Project | Description | Tech Stack |
-- | :--- | :--- | :--- |
-- | **NeuroTicker** | AI-driven fintech platform for trading insights | `Typescript` `GenAI` `LLMs` `RESTAPI`|
-- | **FractionRealmRise** | Real estate tokenization and geospatial trading platform | `Typescript` `Aptos` `Mapbox` |
-- | **RITE** | GNSS map-matching & AI chatbot system. | `React` `Node` `GNSS` |
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **NeuroTicker** | AI-driven fintech platform for trading insights | `Typescript` `GenAI` `LLMs` `RESTAPI`|
+| **FractionRealmRise** | Real estate tokenization and geospatial trading platform | `Typescript` `Aptos` `Mapbox` |
+| **RITE** | GNSS map-matching & AI chatbot system. | `React` `Node` `GNSS` |
 
 ---
 ## 📊 GitHub Stats  
