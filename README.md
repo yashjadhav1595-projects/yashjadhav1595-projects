@@ -18,18 +18,18 @@
 - **Frameworks & Tools:** React.js, MySQL  
 - **Other Skills:** Git, REST APIs, Postman, TailwindCSS
 - 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,tensorflow,js,react,vite,html,tailwind,git,github&theme=dark)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=python,fastapi,tensorflow,js,react,vite,html,tailwind,git,github&theme=dark)](https://skillicons.dev)
 
 
 ---
 
 
 ### 🚀 Top Deployments
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **NeuroTicker** | AI-driven fintech platform for trading insights | `Typescript` `GenAI` `LLMs` `RESTAPI`|
-| **FractionRealmRise** | Real estate tokenization and geospatial trading platform | `Typescript` `Aptos` `Mapbox` |
-| **RITE** | GNSS map-matching & AI chatbot system. | `React` `Node` `GNSS` |
+- | Project | Description | Tech Stack |
+- | :--- | :--- | :--- |
+- | **NeuroTicker** | AI-driven fintech platform for trading insights | `Typescript` `GenAI` `LLMs` `RESTAPI`|
+- | **FractionRealmRise** | Real estate tokenization and geospatial trading platform | `Typescript` `Aptos` `Mapbox` |
+- | **RITE** | GNSS map-matching & AI chatbot system. | `React` `Node` `GNSS` |
 
 ---
 ## 📊 GitHub Stats  
@@ -45,16 +45,16 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashjadhav1595-projects&theme=tokyo-night&hide_border=true)  
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yashjadhav1595-projects&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+- [![GitHub Streak](https://streak-stats.demolab.com?user=yashjadhav1595-projects&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashjadhav1595-projects&theme=tokyonight)
+- ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashjadhav1595-projects&theme=tokyonight)
 
-![Metrics](https://metrics.lecoq.io/yashjadhav1595-projects?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&languages=1&languages.limit=8&config.timezone=Asia/Calcutta)
+- ![Metrics](https://metrics.lecoq.io/yashjadhav1595-projects?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&languages=1&languages.limit=8&config.timezone=Asia/Calcutta)
 
 ---
 
 ## 📫 Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yashjadhav1595-connect)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/yashjadhav1595-projects)  
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-red?logo=gmail)](mailto:yashjadhav.career@gmail.com)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yashjadhav1595-connect)  
+- [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/yashjadhav1595-projects)  
+- [![Email](https://img.shields.io/badge/Email-Say%20Hi-red?logo=gmail)](mailto:yashjadhav.career@gmail.com)  
 
