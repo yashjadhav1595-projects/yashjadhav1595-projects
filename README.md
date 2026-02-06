@@ -7,7 +7,7 @@
 ---
 
 ## ✨ About Me  
-- 🌱 Growing my skills in the **MERN** stack(React.js for 1 year now).  
+- 🌱 Growing my skills in the **React.js** (1 year now, maybe will learn MERN stack fully hands-on during hackathons) .  
 - 🔭 Available full-time for **internships** & part time for **freelance** work (looking for real-world projects & collabs).  
 - 🎯 Interested in blending **GenAI + real-world problem solving**.  
 - 📊 Exploring **fintech innovations, GNSS algorithms**, and **RWAs**.  
@@ -15,10 +15,10 @@
 ---
 ## 🛠️ Tech Stack  
 - **Languages:** C++, JavaScript, Python  
-- **Frameworks & Tools:** React.js, Node.js, Express.js, MongoDB, MySQL, PostgreSQL  
+- **Frameworks & Tools:** React.js, MySQL  
 - **Other Skills:** Git, REST APIs, Postman, TailwindCSS
 - 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,tensorflow,js,ts,react,nextjs,vite,html,css,tailwind,mongodb,git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,tensorflow,js,ts,react,vite,html,tailwind,git,github&theme=dark)](https://skillicons.dev)
 
 
 ---
