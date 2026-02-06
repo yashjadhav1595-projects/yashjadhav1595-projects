@@ -18,7 +18,7 @@
 - **Frameworks & Tools:** React.js, MySQL  
 - **Other Skills:** Git, REST APIs, Postman, TailwindCSS
 - 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,tensorflow,js,ts,react,vite,html,tailwind,git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,tensorflow,js,react,vite,html,tailwind,git,github&theme=dark)](https://skillicons.dev)
 
 
 ---
