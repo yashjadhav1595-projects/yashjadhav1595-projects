@@ -49,7 +49,7 @@
  - ![Metrics](https://metrics.lecoq.io/yashjadhav1595-projects?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&languages=1&languages.limit=8&config.timezone=Asia/Calcutta)
 -->
 
-- ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashjadhav1595-projects&theme=tokyonight)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashjadhav1595-projects&theme=tokyonight)
 
 
 
