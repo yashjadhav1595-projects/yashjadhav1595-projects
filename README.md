@@ -63,34 +63,21 @@
 
 ---
 
+
 # 🧠 Engineering Mindset
 
-```yaml
-STATUS: SHIPPING
+<div align="center">
 
-PRIMARY STACK:
-  - React
-  - TypeScript
-  - FastAPI
-  - AI Pipelines
-  - REST APIs
+| Focus Area | Technologies & Interests |
+|---|---|
+| ⚡ Systems | Real-Time Systems • Distributed Architectures • Event-Driven Platforms |
+| 🤖 AI | GenAI • Agentic AI • AI Pipelines • LLM Workflows |
+| ⛓️ Blockchain | RWAs • Smart Contracts • Web3 Infrastructure |
+| 🛰️ Geospatial | GNSS • Mapbox • Spatial Intelligence Systems |
+| 📊 Current Build Mode | Fintech Intelligence • AI Automation • Intelligent Dashboards |
 
-ARCHITECTURE INTERESTS:
-  - Real-Time Systems
-  - Event-Driven Platforms
-  - Distributed Systems
-  - GenAI Workflows
-  - Blockchain Infrastructure
-  - Geospatial Intelligence
+</div>
 
-CURRENT FOCUS:
-  - Fintech Intelligence
-  - Agentic AI
-  - GNSS Systems
-  - RWAs & Tokenization
-  - AI Automation Platforms
-  - Intelligent Dashboards
-```
 
 ---
 
@@ -188,6 +175,6 @@ CURRENT FOCUS:
 ---
 
 
-# ⚡ “Building apps — I Engineering intelligent systems.”
+# ⚡ “Building apps, Engineering intelligent systems.”
 
 </div>
