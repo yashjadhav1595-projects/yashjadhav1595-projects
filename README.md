@@ -10,6 +10,11 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yashjadhav1595-projects&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+
+<p align="center">
   <a href="https://github.com/yashjadhav1595-projects">
     <img src="https://img.shields.io/github/followers/yashjadhav1595-projects?style=for-the-badge&color=0ea5e9&labelColor=111827">
   </a>
