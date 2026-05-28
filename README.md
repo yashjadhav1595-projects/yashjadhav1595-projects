@@ -1,4 +1,4 @@
-````md
+
 # 👋 Hi, I'm Yash Jadhav  
 
 <div align="center">
@@ -208,4 +208,3 @@ CURRENT FOCUS:
 # ⚡ “I don't just build apps — I engineer intelligent systems.”
 
 </div>
-```
