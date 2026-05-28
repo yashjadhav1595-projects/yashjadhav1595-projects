@@ -5,8 +5,6 @@
 
 # 💻 Full Stack + GenAI Systems Engineer  
 
-### 🚀 Engineering intelligent systems across AI, fintech, blockchain & geospatial infrastructure
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Building+Real-Time+AI+Systems;Shipping+Production-Grade+Platforms;GenAI+%7C+Blockchain+%7C+Fintech+%7C+GNSS;Engineering+Systems+That+Think+%26+Scale" />
 </p>
@@ -37,14 +35,6 @@
 
 💻 Full Stack Developer focused on building **high-performance, production-grade systems** that combine intelligence, scalability, and real-world usability.  
 
-🚀 Passionate about:
-- GenAI & Agentic AI
-- Fintech Intelligence Platforms
-- Blockchain RWAs & Web3 Infrastructure
-- Real-Time Event-Driven Systems
-- Geospatial & GNSS Technologies
-- AI Automation Pipelines
-
 📍 Pune, India  
 🎓 B.E. Information Technology @ DYPCOE (SPPU) — 2027  
 
@@ -54,15 +44,7 @@
 - Campus Ambassador @ MST Blockchain
 - Research & Development @ STSARC
 
-🔭 Currently building systems around:
-- AI-powered financial intelligence
-- Blockchain verification infrastructure
-- Autonomous AI workflows
-- Real-time analytics platforms
-- Geospatial intelligence systems
-
 ---
-
 
 # 🧠 Engineering Mindset
 
@@ -147,34 +129,18 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashjadhav1595-projects&theme=tokyonight" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashjadhav1595-projects&theme=tokyonight" />
 
 <br><br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashjadhav1595-projects&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashjadhav1595-projects&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashjadhav1595-projects&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashjadhav1595-projects&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 <br><br>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=yashjadhav1595-projects&theme=tokyonight&hide_border=true"/>
+<img width="60%" src="https://streak-stats.demolab.com?user=yashjadhav1595-projects&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </div>
-
----
-
-# 🌍 Current Exploration
-
-* ⚡ Real-time AI orchestration
-* 🤖 Autonomous agent workflows
-* 📊 Financial intelligence systems
-* 🌐 Blockchain RWAs & tokenization
-* 🛰️ Geospatial intelligence & GNSS systems
-* 🧠 GenAI infrastructure & automation pipelines
-
----
-
-
-# ⚡ “Building apps, Engineering intelligent systems.”
 
 </div>
