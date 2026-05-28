@@ -26,7 +26,7 @@
 
 ## 🧠 Engineering Focus  
 
-```yaml
+
 Status: SHIPPING
 Primary Stack: React + TypeScript + AI Pipelines
 Architecture Interest:
