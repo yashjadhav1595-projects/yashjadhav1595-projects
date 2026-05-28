@@ -187,24 +187,7 @@ CURRENT FOCUS:
 
 ---
 
-# 📫 Let’s Connect
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin\&style=for-the-badge)](https://linkedin.com/in/yashjadhav1595-connect)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github\&style=for-the-badge)](https://github.com/yashjadhav1595-projects)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?logo=vercel\&style=for-the-badge)](https://yashjadhav1595.in)
-
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-red?logo=gmail\&style=for-the-badge)](mailto:yashjadhav.career@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-# ⚡ “I don't just build apps — I engineer intelligent systems.”
+# ⚡ “Building apps — I Engineering intelligent systems.”
 
 </div>
