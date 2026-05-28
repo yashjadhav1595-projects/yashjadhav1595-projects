@@ -1,4 +1,3 @@
-````md
 # 👋 Hi, I'm Yash Jadhav  
 
 <div align="center">
@@ -40,7 +39,7 @@ Current Focus:
   - Agentic AI
   - GNSS Systems
   - RWAs & Tokenization
-````
+
 
 ---
 
