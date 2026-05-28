@@ -3,8 +3,6 @@
 
 <div align="center">
 
-# 💻 Full Stack + GenAI Systems Engineer  
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Building+Real-Time+AI+Systems;Shipping+Production-Grade+Platforms;GenAI+%7C+Blockchain+%7C+Fintech+%7C+GNSS;Engineering+Systems+That+Think+%26+Scale" />
 </p>
