@@ -33,7 +33,7 @@
 
 # ⚡ About Me
 
-💻 I am a Full Stack Developer who is focused on building **high-performance, production-grade systems** that combine intelligence, scalability, and real-world usability.  
+💻 Full Stack Developer focused on building **high-performance, production-grade systems** that combine intelligence, scalability, and real-world usability.  
 
 📍 Pune, India  
 🎓 B.E. Information Technology @ DYPCOE (SPPU) — 2027  
