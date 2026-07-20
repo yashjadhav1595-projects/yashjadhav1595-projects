@@ -41,8 +41,8 @@
 🏆 Highlights:
 - 2× Global Hackathon Winner
 - Intl Top 12 @ DKU
-- Campus Ambassador @ MST Blockchain
-- Research & Development @ STSARC
+- Ex-Campus Ambassador @ MST Blockchain
+- Ex-Research & Development @ STSARC
 
 ---
 
