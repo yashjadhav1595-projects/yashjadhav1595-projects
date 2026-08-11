@@ -18,6 +18,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
+   <a href="https://x.com/YashJadhav1595">
+    <img src="https://img.shields.io/badge/X-Follow-0A66C2?style=for-the-badge&logo=X&logoColor=white" alt="X" />
+  </a>
+
   <a href="mailto:yashjadhav.career@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
