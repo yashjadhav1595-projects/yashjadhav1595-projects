@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Yash Jadhav  
+#Hi, I'm Yash Jadhav  
 
 <div align="center">
 
