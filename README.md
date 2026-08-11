@@ -19,7 +19,7 @@
   </a>
 
    <a href="https://x.com/YashJadhav1595">
-    <img src="https://img.shields.io/badge/X-Follow-0A66D9?style=for-the-badge&logo=X&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/X-Follow-0A67D9?style=for-the-badge&logo=X&logoColor=white" alt="X" />
   </a>
 
   <a href="mailto:yashjadhav.career@gmail.com">
