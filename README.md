@@ -31,5 +31,7 @@
   </a>
 </p>
 
+[![Yash Jadhav profile views](https://u8views.com/api/v1/github/profiles/195965850/views/day-week-month-total-count.svg)](https://u8views.com/github/yashjadhav1595-projects)
+
 </div>
 
